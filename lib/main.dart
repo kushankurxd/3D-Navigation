@@ -94,6 +94,8 @@ class _MyHomePageState extends State<MyHomePage>
   void dispose() {
     super.dispose();
     _controller.dispose();
+    _controller_1.dispose();
+    _controller_2.dispose();
   }
 
   bool switchAnimation = false;
@@ -297,7 +299,9 @@ class _MyHomePageState extends State<MyHomePage>
                 child: AnimatedBuilder(
                   child: GestureDetector(
                     onTap: () {
-                      _openSpec();
+                      if(i==0 && y==0){
+                        _openSpec();
+                      }
                     },
                     child: Padding(
                       padding:
