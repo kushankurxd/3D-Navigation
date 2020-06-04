@@ -1,0 +1,2 @@
+String specs =
+    "The American Elite Stratocaster is a progressive guitar for 21st century musicians. Designed for players who push the envelope every night, this guitar is a true performer that leaves others in the dust with eye-catching style, exceptional feel and versatile sound from the very first moment you plug it in and play. Designed for fast playing and effortless position changes, the compound profile neck is ideal for all playing styles.";
