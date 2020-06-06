@@ -1,6 +1,6 @@
 # 3D-Navigation 
 
-A new Flutter UI/UX design concept of Next-Gen Navigation, Inspired from (Minh Pham)[https://dribbble.com/phamduyminh].
+A new Flutter UI/UX design concept of Next-Gen Navigation, Inspired from [Minh Pham](https://dribbble.com/phamduyminh).
 
 #### Screenshots 
 ![ezgif com-resize](https://user-images.githubusercontent.com/37204706/83947626-d6e0a100-a835-11ea-83df-49f52ac53c43.gif)
